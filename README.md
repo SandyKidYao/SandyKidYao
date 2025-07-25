@@ -1,4 +1,7 @@
-## Hi there 👋
+## This is Sandy, Hi there 👋
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SandyKidYao)](https://github.com/SandyKidYao/github-readme-stats)
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandykidYao/SandykidYao/output/github-contribution-grid-snake-dark.svg">
