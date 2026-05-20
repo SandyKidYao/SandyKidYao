@@ -1,4 +1,4 @@
-## This is Sandy, Hi there 👋
+## 👋 Hi there, this is SandyKid. May freedom be with you everyday. 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SandykidYao/SandykidYao/output/github-contribution-grid-snake-dark.svg">
